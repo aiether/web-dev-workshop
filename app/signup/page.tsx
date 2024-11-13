@@ -29,7 +29,7 @@ export default function Waitlist() {
       }
     } catch (error) {
       console.log(error);
-      setMessage('Failed to join the waitlist. Please try again.');
+      setMessage('Black Nigga Detected, Please try again.');
     }
   };
 
